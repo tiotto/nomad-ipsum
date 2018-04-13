@@ -1,0 +1,19 @@
+{
+	"name": "Nomad Ipsum",
+	"version": "0.0.1",
+	"description": "Take Lorem Ipsum with you wherever you go.",
+	"browser_action": {
+      "default_popup": "nomad.html",
+      "default_icon": {
+        "16": "images/internet16.png",
+        "32": "images/internet32.png",
+        "128": "images/internet128.png"
+      }
+    },
+    "icons": {
+        "16": "images/internet16.png",
+        "32": "images/internet32.png",
+        "128": "images/internet128.png"
+    },
+	"manifest_version": 2
+}
